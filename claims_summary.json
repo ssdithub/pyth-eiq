@@ -1,0 +1,22 @@
+```json
+{
+  "Insured Name": "Sparkling De",
+  "Claim Status": "Open",
+  "Date of Loss": "12 Oct 2021",
+  "UCR": "UCR/D0003221/OCT/0000",
+  "Cedent Claim No": "PCS 2116",
+  "Loss Description": "PCS No. 212; Ice, Snow, Wind, Power Outage; 12 Oct 2021-14 Oct 2021",
+  "Contract With": "LIBRA Mutual Insurance Company",
+  "UMR": "B1234DC20L0L1113",
+  "Coverage Period": "Occurring During 01 Oct 2021 to 01 Oct 2022",
+  "Limit xs Retention": "USD 300,000,000.00 xs USD 100,000,000.00",
+  "Aggregate Limit": "USD 120,000,000.00",
+  "Gross Loss (Paid, Outstanding, Incurred)": "3,626,000.00; 4,703,000.00; 7,329,000.00",
+  "Gross Expense (Paid, Outstanding, Incurred)": "2,734,000.00; 3,451,000.00; 6,185,000.00",
+  "Subject Loss": "6,360,000.00",
+  "Ceded Loss": "0.00",
+  "Net Due From ABC Limited": "0.00",
+  "Placement %": "0.75%",
+  "Incurred Loss at Placement": "0.00"
+}
+```
